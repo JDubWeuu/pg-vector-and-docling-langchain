@@ -2,3 +2,5 @@
 .aryn
 .env
 test.py
+.gitignore
+assets
